@@ -1,4 +1,3 @@
-# LAB12
 
 # 🔐 LAB 12 — Bypass de la Détection de Root Android
  
@@ -360,14 +359,3 @@ Spawned `owasp.mstg.uncrackable3`. Resuming main thread!
  
 **Avertissement éthique :** Les techniques présentées dans ce lab sont utilisées exclusivement dans un cadre légal d'audit de sécurité mobile, sur des applications et appareils de test. Toute utilisation sur des applications tierces sans autorisation explicite est illégale.
  
----
- 
-
-
-
-
-
-
-
-
-
